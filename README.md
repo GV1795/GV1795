@@ -20,9 +20,12 @@ Let's connect, collaborate, and create! 🌟
 <!-- Add badges for skills or technologies -->
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-green)
+![AI](https://img.shields.io/badge/AI-Enthusiast-red)
 
 <!-- Add a colorful banner or image to your profile -->
-![Profile Banner]([url-to-your-image](https://unsplash.com/s/photos/data-science))
+<!-- Add a colorful banner or image to your profile -->
+![Profile Banner](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=996&t=st=1706379627~exp=1706380227~hmac=9490c10fac167faf95fbf2ebfd66f27a64367d36a011effd5d129f125283f30c)
+
 
 <!-- Rest of your README content remains the same -->
 
