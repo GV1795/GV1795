@@ -24,7 +24,7 @@ Let's connect, collaborate, and create with warmth and expertise! 🌟
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-green)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-red)
-![Data Science](https://img.shields.io/badge/Data%20Science-Practitioner-orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-orange)
 
 
 <!-- Rest of your README content remains the same -->
