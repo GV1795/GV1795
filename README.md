@@ -1,5 +1,5 @@
 <!-- Add a professional banner or image to your profile -->
-<div style="background-color: #FFD700; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #3E4095; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?w=996&t=st=1706379627~exp=1706380227~hmac=9490c10fac167faf95fbf2ebfd66f27a64367d36a011effd5d129f125283f30c" alt="Profile Banner" style="width: 100%; border-radius: 8px;">
 </div>
 
@@ -24,5 +24,7 @@ Let's connect, collaborate, and create with warmth and expertise! 🌟
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-green)
 ![AI](https://img.shields.io/badge/AI-Enthusiast-red)
+![Data Science](https://img.shields.io/badge/Data%20Science-Practitioner-orange)
+
 
 <!-- Rest of your README content remains the same -->
