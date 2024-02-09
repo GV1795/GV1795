@@ -1,13 +1,13 @@
 # Hi there 👋
 
-![Data Science Banner](https://www.shutterstock.com/image-illustration/abstract-blurred-background-computergenerated-image-fractal-486768502)
+![Data Science & AI : Way to Infinity](https://www.freepik.com/free-photo/global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative_49395891.htm#query=future%20data&position=2&from_view=keyword&track=ais&uuid=91ba4505-243e-47f5-96a7-f71f0085498e)
 
 🚀 Passionate data scientist with expertise in machine learning, statistical analysis, and data-driven decision-making.
 
-.
+- 🔭 Currently working on [Project Name].
 - 🌱 Constantly learning and exploring new data science techniques.
 - 👯 Open to collaborations on data science and machine learning projects.
-- 🤔 Seeking insights and assistance on [Data Science, AI & Ml].
+- 🤔 Seeking insights and assistance on [specific challenge or area].
 - 💬 Let's discuss anything related to data science, statistics, and machine learning.
 - 📫 Reach me at: [gauravvashist6@gmail.com].
 
