@@ -1,6 +1,6 @@
 <!-- Add a professional banner or image to your profile -->
 <div style="background-color: #3E4095; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://www.shutterstock.com/image-photo/big-data-concept-digital-neural-network-2055335264" alt="Profile Banner" style="width: 100%; border-radius: 8px;">
+  [<img src="https://www.shutterstock.com/image-photo/big-data-concept-digital-neural-network-2055335264" alt="Profile Banner" style="width: 100%; border-radius: 8px;">](https://www.shutterstock.com/image-illustration/abstract-blurred-background-computergenerated-image-fractal-486768502)
 </div>
 
 ### Hi there 👋
